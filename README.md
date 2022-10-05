@@ -7,7 +7,7 @@ mentioned article and the related supplementary information.
 
 Specifically, the packaged version
 
-[<https://doi.org/10.5281/zenodo.7148432>][<https://zenodo.org/badge/DOI/10.5281/zenodo.7148432>]] (v0.1.0 - Oct. 2022)
+[<https://doi.org/10.5281/zenodo.7148432>][![img](https://zenodo.org/badge/zenodo.7148432.svg)]] (v0.1.0 - Oct. 2022)
 
 contains the version used to generate the article.
 
