@@ -1,4 +1,4 @@
-As discussed in (link follows), steady-state free precession SSFP sequences
+As discussed in (link follows), steady state free precession (SSFP) sequences
 exhibit a universal approximate scaling law with respect to B1+ variations
 at low to moderate flip angles.
 
