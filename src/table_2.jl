@@ -1,6 +1,6 @@
 #= 
 ==================================================================  
-Script, used to generate table 1
+Script, used to generate table 2
 
 For given sets of steady state SSFP acquisitions, 
 we assess the attainable precision for estimators (R1, R2), 
